@@ -24,3 +24,6 @@
  git add . 
  git commit -m "some message"
  git push origin  main
+
+ mkdir repo 
+ git init (makes the directory trakable by git)
